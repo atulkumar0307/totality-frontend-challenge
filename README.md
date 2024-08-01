@@ -4,6 +4,8 @@
 
 The Property Rental App is a modern React-based application designed for managing property rentals. It allows users to browse property listings, manage bookings, and interact with a user-friendly interface. The application is built using React and Vite, and it's styled with CSS to ensure a responsive and visually appealing experience across various devices.
 
+You can view the live application here: [Property Rental App](https://reantalease.netlify.app/)
+
 ## Approach
 
 ### Project Structure
@@ -89,10 +91,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request to merge your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
